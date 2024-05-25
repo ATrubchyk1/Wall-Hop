@@ -15,3 +15,5 @@
 ## Screenshots
 ![Скриншот 1](Assets/Resources/Images/Screenshot1.png)
 ![Скриншот 2](Assets/Resources/Images/Screenshot2.png)
+
+[[Video]](https://www.youtube.com/shorts/UPeQYuerd8o)
