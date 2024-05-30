@@ -12,7 +12,7 @@
 - **Минималистичный дизайн**: Чистый и понятный интерфейс, сосредоточенный на игровом процессе.
 - **Растущая сложность**: По мере прохождения игра становится сложнее, за счёт увеличения скорости.
 
-[[Video on YouTube]](https://www.youtube.com/shorts/UPeQYuerd8o)
+[[Video on YouTube]](https://youtu.be/tGrXvaSe_Pc)
 
 ## Screenshots
 ![Скриншот 1](Assets/Resources/Images/Screenshot1.png)
