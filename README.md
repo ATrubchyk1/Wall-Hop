@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://imgbb.com/"><img src="https://i.ibb.co/QQjtvZS/Screenshot-3.png"" width="256">
+      <img src="Assets/Resources/Images/Wall Hope1.png"" width="256">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/Unity Version-2023.2.20f1-green" alt="Unity Version">
@@ -12,7 +12,7 @@
 - **Минималистичный дизайн**: Чистый и понятный интерфейс, сосредоточенный на игровом процессе.
 - **Растущая сложность**: По мере прохождения игра становится сложнее, за счёт увеличения скорости.
 
-[[Video]](https://www.youtube.com/shorts/UPeQYuerd8o)
+[[Video on YouTube]](https://www.youtube.com/shorts/UPeQYuerd8o)
 
 ## Screenshots
 ![Скриншот 1](Assets/Resources/Images/Screenshot1.png)
